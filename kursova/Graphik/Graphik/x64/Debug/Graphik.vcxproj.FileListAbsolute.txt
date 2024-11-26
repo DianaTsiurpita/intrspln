@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Graphik\Graphik\x64\Debug\Graphik.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\Graphik\Graphik\x64\Debug\Graphik.Form1.resources
+C:\Users\User\Desktop\Graphik\Graphik\x64\Debug\Graphik.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\Нова папка\Graphik\Graphik\x64\Debug\Graphik.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\Нова папка\Graphik\Graphik\x64\Debug\Graphik.Form1.resources
+C:\Users\User\Desktop\Нова папка\Graphik\Graphik\x64\Debug\Graphik.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\Сплайни Цюрпіта Діана\Graphik\Graphik\x64\Debug\Graphik.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\Сплайни Цюрпіта Діана\Graphik\Graphik\x64\Debug\Graphik.Form1.resources
+C:\Users\User\Desktop\Сплайни Цюрпіта Діана\Graphik\Graphik\x64\Debug\Graphik.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\курсова\Сплайни Цюрпіта Діана\Graphik\Graphik\x64\Debug\Graphik.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\курсова\Сплайни Цюрпіта Діана\Graphik\Graphik\x64\Debug\Graphik.Form1.resources
+C:\Users\User\Desktop\курсова\Сплайни Цюрпіта Діана\Graphik\Graphik\x64\Debug\Graphik.vcxproj.GenerateResource.cache

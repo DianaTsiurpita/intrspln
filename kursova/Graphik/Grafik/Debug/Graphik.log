@@ -1,0 +1,15 @@
+﻿  Form1.cpp
+C:\Users\User\Desktop\Graphik\Form1.h(340,13): error C2065: 'Grafik': undeclared identifier
+  (compiling source file 'Form1.cpp')
+  
+C:\Users\User\Desktop\Graphik\Form1.h(340,21): error C2065: 'Gr': undeclared identifier
+  (compiling source file 'Form1.cpp')
+  
+C:\Users\User\Desktop\Graphik\Form1.h(340,32): error C2061: syntax error: identifier 'Grafik'
+  (compiling source file 'Form1.cpp')
+  
+C:\Users\User\Desktop\Graphik\Form1.h(346,13): error C2065: 'Gr': undeclared identifier
+  (compiling source file 'Form1.cpp')
+  
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generating Code...
